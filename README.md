@@ -20,4 +20,4 @@ Accidents caused by human factor failures is the leading issue that plagues rail
 
 2)	Rail Corridor Risk Management System (RCRMS). RCRMS will improvement route planning and management decisions to reduce the likelihood of operator miscalculations and failures.
 
-**Look at the FINAL_REPORT.md for detailed report**
+
